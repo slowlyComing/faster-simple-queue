@@ -1,0 +1,19 @@
+{
+  "name": "faster-simple-queue",
+  "version": "0.1.0",
+  "description": "simple task queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "easy-uuid": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slowlyComing/easy-uuid"
+  },
+}
